@@ -2,7 +2,7 @@
 
 This is a simple React application that allows users to pick a color by typing its name in the search box. The chosen color is then displayed in a color card component in the center of the page.
 
-Built by me, inspired by [Dave](github.com/gitdagray).
+Built by me, inspired by [Dave](https://github.com/gitdagray).
 
 ## Features
 
