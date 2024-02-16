@@ -33,10 +33,6 @@ body {
   place-content: center;
 }
 
-.colorCard p {
-  text-align: center;
-}
-
 input[type="text"] {
   margin-top: 0.5rem;
   padding: 0.25rem;
