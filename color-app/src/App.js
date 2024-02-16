@@ -1,6 +1,6 @@
 import React from "react";
-import ColorCard from "./ColorCard";
-import SearchColor from "./SearchColor";
+import ColorCard from "./components/ColorCard";
+import SearchColor from "./components/SearchColor";
 import { useState } from "react";
 
 const App = () => {
