@@ -6,10 +6,18 @@ import { useState } from "react";
 const App = () => {
   const [color, setColor] = useState("");
 
+  const handleInputChange = (e) => {
+    setColor(e.target.value);
+  };
+
   return (
     <div className="App">
       <ColorCard color={color} />
-      <SearchColor color={color} setColor={setColor} />
+      <SearchColor
+        color={color}
+        setColor={setColor}
+        handleInputChange={handleInputChange}
+      />
     </div>
   );
 };
