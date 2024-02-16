@@ -13,11 +13,7 @@ const App = () => {
   return (
     <div className="App">
       <ColorCard color={color} />
-      <SearchColor
-        color={color}
-        setColor={setColor}
-        handleInputChange={handleInputChange}
-      />
+      <SearchColor color={color} handleInputChange={handleInputChange} />
     </div>
   );
 };

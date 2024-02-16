@@ -1,6 +1,6 @@
 import React from "react";
 
-const SearchColor = ({ color, setColor, handleInputChange }) => {
+const SearchColor = ({ color, handleInputChange }) => {
   return (
     <input
       type="text"
