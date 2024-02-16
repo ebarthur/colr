@@ -12,6 +12,7 @@ Built by me, inspired by [Dave](github.com/gitdagray).
 ## Technologies Used
 
 - React.js
+- HTML
 - CSS
 
 ## How to Use
