@@ -23,7 +23,7 @@ Built by me, inspired by [Dave](https://github.com/gitdagray).
    git clone git@github.com/ebarthur/colr.git
    ```
 
-2. Navigate to the color-app directory.
+2. Navigate to the directory.
 3. Install dependencies by running `npm install`.
 4. Start the development server by running `npm start`.
 5. Open your web browser and visit `http://localhost:3000` to view the app.
